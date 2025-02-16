@@ -1,0 +1,19 @@
+--------------------------طريقه استخدام البانل بشكل صحيح---------------------
+
+يجب عليك ان لا تقوم بتفعيل اي شي بجانبه كلمه ريسك او نوت ساف  -1
+
+لا تقم بفتح ال تاسك مانجر اثناء تشغيل البانل حتى لا تاْتي  لك الشاشه الزرقاء  -2
+
+لاا تقم بفتح اي برامج لمحاوله كراك البانل حتى تتجنب  مخاطر الفيروسات التي تؤدي الي اسقاط ملفات جميع الهاردات لديك  -3 
+
+
+
+----------------------How to use the panel correctly-----------------------
+
+
+
+1- You should not activate anything with the word Risk or NoteSave next to it
+
+2- Do not open the Task Manager while the panel is running, so that you do not get the blue screen
+
+3- Do not open any programs to try to crack the panel in order to avoid the risks of viruses that lead to dropping the files of all your hard drives.
